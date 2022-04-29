@@ -47,22 +47,22 @@
 
 <?php
 	if ($roll == "1" ) {
-		print "<img width=\"100\" src=\"chorras/img1.gif\">\n";
+		print "<img width=\"100\" src=\"img1.gif\">\n";
 	}
 	if ($roll == "2" ) {
-		print "<img width=\"100\" src=\"chorras/img2.gif\">\n";
+		print "<img width=\"100\" src=\"img2.gif\">\n";
 	}
 	
 	if ($roll == "3" ) {
-		print "<img width=\"100\" src=\"chorras/img3.gif\">\n";	
+		print "<img width=\"100\" src=\"img3.gif\">\n";	
 	}
 	
 	if ($roll == "4" ) {
-		print "<img width=\"100\" src=\"chorras/img4.gif\">\n";
+		print "<img width=\"100\" src=\"img4.gif\">\n";
 	}
 	
 	if ($roll == "5" ) {
-		print "<img width=\"100\" src=\"chorras/img5.gif\">\n";
+		print "<img width=\"100\" src=\"img5.gif\">\n";
 	}
 	/*
 	if ($roll == "6" ) {
